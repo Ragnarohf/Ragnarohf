@@ -3,7 +3,7 @@
 Je suis à la recherche d'une opportunité d'alternance pour soutenir ma formation en tant que Concepteur Développeur d'Applications (CDA) avec cette même école.
 Mon enthousiasme, ma curiosité pour la technologie et mon désir d'atteindre l'excellence font de moi un candidat déterminé à apporter une valeur ajoutée à votre équipe.
 Je suis prêt à relever de nouveaux défis et à contribuer activement à la croissance de votre organisation.
-En dehors du travail, je suis un amateur de jeux vidéo, de musique, et un grand fan de rugby !/h3>
+En dehors du travail, je suis un amateur de jeux vidéo, de musique, et un grand fan de rugby !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnarohf&label=Profile%20views&color=0e75b6&style=flat" alt="ragnarohf" /> </p>
 
