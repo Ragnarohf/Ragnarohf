@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
-<h3 align="center">J'ai 31 ans et je suis actuellement en pleine reconversion professionnelle. Ayant commencé en autodidacte, je suis maintenant diplômé de L'ENI en tant que développeur web et web mobile .
+<h3 align="center"> J'ai 31 ans et je suis actuellement en pleine reconversion professionnelle. Ayant commencé en autodidacte, je suis maintenant diplômé de L'ENI en tant que développeur web et web mobile .
 Je suis à la recherche d'une opportunité d'alternance pour soutenir ma formation en tant que Concepteur Développeur d'Applications (CDA) avec cette même école.
 Mon enthousiasme, ma curiosité pour la technologie et mon désir d'atteindre l'excellence font de moi un candidat déterminé à apporter une valeur ajoutée à votre équipe.
 Je suis prêt à relever de nouveaux défis et à contribuer activement à la croissance de votre organisation.
